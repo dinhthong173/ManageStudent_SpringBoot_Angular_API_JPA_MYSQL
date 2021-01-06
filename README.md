@@ -1,0 +1,1 @@
+# ManageStudent_SpringBoot_Angular_API_JPA_MYSQL
